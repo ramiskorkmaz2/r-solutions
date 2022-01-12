@@ -1,5 +1,3 @@
-# PWT10.0 veri seti kullanılarak çeşitli ülkelerin ekonomik göstergeleri with ggplot kütüphanesi
-
 library(data.table)
 library(ggplot2)
 library(pwt10)
